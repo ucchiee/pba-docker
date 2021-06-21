@@ -4,6 +4,8 @@ This is Unoficial Docker environment for Practical Binary Analysis.
 
 For the oficial info, visit the website at https://practicalbinaryanalysis.com/
 
+WARNING : I have NOT checked whether all the code do work.
+
 ## Download Sample Code
 
 ```sh
