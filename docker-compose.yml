@@ -4,5 +4,6 @@ services:
   pba:
     build: .
     tty: true
+    command: "/bin/bash"
     volumes:
-      - ./code:/code
+      - ./code:/root/code
