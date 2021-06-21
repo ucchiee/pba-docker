@@ -34,3 +34,9 @@ docker-compose build
 docker-compose up -d
 docker-compose exec pba bash
 ```
+
+## Stop and Delete Container
+
+```sh
+docker-compose down
+```
