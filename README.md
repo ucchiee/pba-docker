@@ -45,28 +45,28 @@ docker-compose down
 
 # TODO
 
-[ ] chapter1
+- [ ] chapter1
 
-[ ] chapter2
+- [ ] chapter2
 
-[ ] chapter3
+- [ ] chapter3
 
-[ ] chapter4
+- [ ] chapter4
 
-[ ] chapter5
+- [ ] chapter5
 
-[ ] chapter6
+- [ ] chapter6
 
-[ ] chapter7
+- [ ] chapter7
 
-[ ] chapter8
+- [ ] chapter8
 
-[ ] chapter9
+- [ ] chapter9
 
-[ ] chapter10
+- [ ] chapter10
 
-[ ] chapter11
+- [ ] chapter11
 
-[ ] chapter12
+- [ ] chapter12
 
-[ ] chapter13
+- [ ] chapter13
