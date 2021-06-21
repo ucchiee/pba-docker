@@ -24,13 +24,13 @@ docker-compose exec pba bash
 
 ## For those who are lazy
 
-Download sample code and build image by
+Download the sample code and build the image by
 
 ```sh
 make build
 ```
 
-and start container by
+and start a container by
 
 ```sh
 make run
