@@ -13,3 +13,5 @@ RUN apt-get -y install build-essential \
     vim-common; \
   apt-get clean; \
   rm -rf /var/lib/apt/lists/*
+
+WORKDIR /root
