@@ -1,6 +1,6 @@
 # pba-docker
 
-This is Unoficial Docker environment for Practical Binary Analysis.
+This is Unofficial Docker environment for Practical Binary Analysis.
 
 For the oficial info, visit the website at https://practicalbinaryanalysis.com/
 
