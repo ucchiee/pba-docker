@@ -2,7 +2,7 @@
 
 This is Unoficial Docker environment for Practical Binary Analysis.
 
-For more info, visit a web site at https://practicalbinaryanalysis.com/
+For the oficial info, visit the web site at https://practicalbinaryanalysis.com/
 
 ## Download Sample Code
 
