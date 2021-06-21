@@ -6,6 +6,20 @@ For the oficial info, visit the website at https://practicalbinaryanalysis.com/
 
 WARNING : I have NOT checked whether all the code do work.
 
+## For those who are lazy
+
+Download the sample code and build the image by
+
+```sh
+make build
+```
+
+and start a container by
+
+```sh
+make run
+```
+
 ## Download Sample Code
 
 ```sh
@@ -24,18 +38,4 @@ docker-compose build
 ```
 docker-compose up -d
 docker-compose exec pba bash
-```
-
-## For those who are lazy
-
-Download the sample code and build the image by
-
-```sh
-make build
-```
-
-and start a container by
-
-```sh
-make run
 ```
