@@ -8,16 +8,11 @@ WARNING : I have NOT checked whether all the code do work.
 
 ## For those who are lazy
 
-Download the sample code and build the image by
+`Makefile` contains all the command described below.
 
 ```sh
-make build
-```
-
-and start a container by
-
-```sh
-make run
+make build  # download code, build image
+make run    # run
 ```
 
 ## Download Sample Code
